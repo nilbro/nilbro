@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nil</h1>
-<h3 align="center">Data Engineer at Mediengruppe RTL Deutschland</h3>
+<h3 align="center">Data Engineer at ProSiebenSat1</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilbro&label=Profile%20views&color=0e75b6&style=flat" alt="nilbro" /> </p>
 
